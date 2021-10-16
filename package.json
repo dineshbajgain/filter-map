@@ -1,5 +1,5 @@
 {
-  "name": "package",
+  "name": "filter-map",
   "version": "1.0.0",
   "description": "filter-map",
   "main": "index.js",
@@ -10,7 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/dineshbajgain/filter-map.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
