@@ -4,7 +4,7 @@ Map Object is a Javascript library for dealing format of the array object.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [npm](https://www.npmjs.com/package/map-data-object) to install map-data-object.
 
 ```bash
 npm i map-object
@@ -27,7 +27,7 @@ const objectSet = [
       "title": "qui est esse",
 }]
  console.log(mapObject(objectSet,['id','title']))
-
+```
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
