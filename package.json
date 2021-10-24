@@ -1,7 +1,7 @@
 {
   "name": "map-data-object",
-  "version": "1.0.1",
-  "description": "map-object",
+  "version": "1.0.11",
+  "description": "Map Object is a Javascript library for dealing format of the array object.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/dineshbajgain/filter-map.git"
   },
-  "author": "",
+  "keywords": [
+    "js map array",
+    "javascript map array of objects",
+    "javascript key value map",
+    "javascript map object",
+    "array map"
+  ],
+  "author": "Dinesh Bajgain",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dineshbajgain/filter-map/issues"
